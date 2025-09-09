@@ -13,7 +13,9 @@ menu:
 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 是一个基于 [Jekyll](https://jekyllrb.com/) 的博客主题。由于 Jekyll 的设计限制，它本身不支持国际化（i18n），需要依赖第三方插件来实现 i18n 功能。为了让 Chirpy 在不依赖第三方插件的情况下支持 i18n，[hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) 项目将 Chirpy 主题迁移至 [Hugo](https://gohugo.io/)，并进行了最小化的适配。Chirpy 的所有功能在 hugo-theme-chirpy 中均可使用（不过在 Hugo 框架下，部分功能的操作方式可能有所不同）。
 
 
-测试功能11111
+测试上传功能
+测试拉取功能
+zaic
 
 跟随示例站点的文章，快速搭建一个免费的个人博客吧！
 ## 功能特点
