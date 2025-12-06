@@ -1,7 +1,7 @@
 ---
 title: Jekyll博客搭建(一)| 本地环境搭建
 author: 0x_716
-date: 2025-12-04 18:33:00 +0800
+date: 2025-08-04 06:00:00 +0800
 categories: [blog]
 tags: [blog]
 pin: true
@@ -10,7 +10,6 @@ mermaid: true
 image:
   path: assets/cover/blog-1.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 
@@ -22,6 +21,7 @@ image:
 - **GitHub Pages**：免费静态托管Jekyll网站
 
 ![](https://raw.githubusercontent.com/ffkkaq/imageHost/main/img/20251205171226732.png)
+
 
 ## Jekyll、Git、依赖安装
 
